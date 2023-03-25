@@ -15,10 +15,6 @@ public abstract class Hero extends GameEntity
     }
 
     public void attack(Boss boss) {
-        if(this instanceof Berserk){
-            boss.setHealth(boss.getHealth() - this.getDamage() - ((Berserk) this).getBlockedDamage());
-        }else {
             boss.setHealth(boss.getHealth() - this.getDamage());
         }
     }
-}

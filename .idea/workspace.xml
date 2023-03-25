@@ -4,28 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c76c607-aaab-4d98-9a08-655db0de5f62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Almanbet_Abdykulov_hw_8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/general/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/general/RPG_Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Berserk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Bomber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/GameEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Giant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/HavingSuperAbility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Magic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Medic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Spitfire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/SuperAbility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Warrior.java" afterDir="false" />
+    <list default="true" id="5c76c607-aaab-4d98-9a08-655db0de5f62" name="Changes" comment="Original">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kg/geeks/game/players/Berserk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Berserk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kg/geeks/game/players/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Hero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/Almanbet_Abdykulov_hw_7"
+    "last_opened_file_path": "C:/Users/User/Desktop/Geeks/lesson_8"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -69,6 +51,18 @@
       <option name="presentableId" value="Default" />
       <updated>1679728034253</updated>
     </task>
+    <task id="LOCAL-00001" summary="Original">
+      <created>1679766757664</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679766757664</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Original" />
+    <option name="LAST_COMMIT_MESSAGE" value="Original" />
   </component>
 </project>

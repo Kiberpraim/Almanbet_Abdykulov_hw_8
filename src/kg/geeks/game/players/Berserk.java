@@ -9,7 +9,7 @@ public class Berserk extends Hero {
 
     @Override
     public void applySuperPower(Boss boss, Hero[] heroes) {
-
+        boss.setHealth(boss.getHealth() - this.getBlockedDamage());
     }
 
     public int getBlockedDamage() {
